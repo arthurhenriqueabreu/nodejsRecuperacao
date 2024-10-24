@@ -1,0 +1,26 @@
+{
+  "name": "nodejsrecuperacao",
+  "version": "1.0.0",
+  "description": "recuperacao avaliacao nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev":  "node --watch index.js",
+    "test": "jest test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurhenriqueabreu/nodejsRecuperacao.git"
+  },
+  "author": "Arthur Henrique Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurhenriqueabreu/nodejsRecuperacao/issues"
+  },
+  "homepage": "https://github.com/arthurhenriqueabreu/nodejsRecuperacao#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
